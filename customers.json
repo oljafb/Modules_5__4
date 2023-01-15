@@ -1,0 +1,5 @@
+[{"name": "Frodo Baggins", "department" : "Management", "position":"CEO"},
+{"name": "Gandalf the Gray", "department" : "Recruitment", "position":"Lead-recruiter"},
+{"name": "Aragorn", "department" : "Security", "position":"Security officer"},
+{"name": "Legolas", "department" : "Management", "position":"Office manager"}
+]
